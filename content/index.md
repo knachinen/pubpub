@@ -1,7 +1,7 @@
 ---
-title: publishing in public.
+title: 📠 pubpub...
 ---
 
-📠 ...
+📜  Publishing in public. 
 
 
