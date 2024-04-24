@@ -5,9 +5,11 @@ tags:
 ---
 
 ## Connect
-mastodon: @jin@fosstodon.org
-github: github.com/knachinen
 
+github: github.com/knachinen  
+mastodon: @jin@fosstodon.org  
+
+---
 ## Skills
 
 ### Language
@@ -15,23 +17,24 @@ Python, C/C++, Java,
 Javascript / HTML / CSS,
 
 ### Framework
-PyTorch, TensorFlow, LangChain, Huggingface, pandas,
-MLX, Ollama, BeautifulSoup4, Selenium,
-FastAPI, Flask, Flutter, Streamlit,
-Git, MySQL,
+PyTorch, TensorFlow, LangChain, Huggingface, pandas,  
+MLX, Ollama, BeautifulSoup4, Selenium,  
+FastAPI, Flask, Flutter, Streamlit,  
+Git, MySQL,  
 
 ### Tools
-Linux, zsh, NVim, tmux, 
-Obsidian, alfred,
-Slack, discord, 
+Linux, zsh, NVim, tmux,  
+Obsidian, alfred,  
+Slack, discord,   
 
-
+---
 ## Education
-Induk college - Software development
-Kwangwoon univ. - Bachelor of electronic engineering 
-Hanyang cyber univ. - Certificate of design planning
 
+- Induk college - Software development  
+- Kwangwoon univ. - Bachelor of electronic engineering   
+- Hanyang cyber univ. - Certificate of design planning  
 
+---
 ## Experiences
 
 ### 2023.12 - Now
@@ -61,8 +64,9 @@ https://github.com/knachinen/aiffelthon
 - FLAN-T5 Fine-tuning with QLoRA
 
 ### 2014.9 - 2022.9
-Greenpeace
-Warehouse Coordinator
+Greenpeace  
+Action team  
+Warehouse Coordinator  
 
 - Equipment production & management
 	- Design - sketch-up, blender, Adobe illustrator / photoshop, figma, canva
@@ -83,8 +87,8 @@ Warehouse Coordinator
 
 
 ### 2019 - 2021
-Sea Shepherd Korea
-Activist
+Sea Shepherd Korea  
+Activist  
 
 - Campaign equipment production
 - Campaign webpage development
@@ -94,35 +98,35 @@ Activist
 - Participation in actions
 
 ### 2009.9 - 2013.10
-Yujin robot.
-Software developer / Machine control engineer
+Yujin robot  
+Dev. support / Control team  
+Software developer / Machine control engineer  
 
 - QA Test
-	- Robot vacuum
+	- Robot vacuum cleaner
 	- Service IDE
-- Robot vacuum - C++ / Windows API
+- Robot vacuum cleaner - C++ / Windows API
 	- UI
 	- Random navigation
 	- Self-test process with bluetooth
 - Service robot
 	- IDE development - eclipse
 	- Service test - ROS / iOS / Java
-- Others
+- Other framework
 	- redmine
 	- TortoiseSVN
 
-### 2001 
-Induk college
+### 2001 - 2005
+Induk college  
 
-game dev. club - gamjigi
-- Rayman clone coding - DirectX 
-
-in courses
-- C++ / Win32 / MFC 
-
-project
+Project
 - ramen timer - windows utility
-	- Windows API
+	- Win32 API
+
+Game dev. club - Gam(e)jigi (Game Keeper)
+- Clone coding
+	- with DirectX
+	- Side-scrolling video game (Rayman and others)
 
 
 
