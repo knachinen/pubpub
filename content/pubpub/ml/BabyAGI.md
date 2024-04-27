@@ -17,6 +17,7 @@
 4. Creates news tasks and re-priortises the task list based on the objective and the result of the previous task.
 
 ### Overview Illustration
+
 ![[Pasted image 20240427163802.png]]
 
 ### Agents 
