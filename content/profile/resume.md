@@ -7,7 +7,6 @@ tags:
 ## Connect
 
 github: github.com/knachinen  
-
 mastodon: @jin@fosstodon.org  
 
 ---
@@ -16,25 +15,19 @@ mastodon: @jin@fosstodon.org
 ### Language
 
 Python, C/C++, Java, 
-
 Javascript / HTML / CSS,
 
 ### Framework
 
 PyTorch, TensorFlow, LangChain, Huggingface, pandas,  
-
 MLX, Ollama, BeautifulSoup4, Selenium,  
-
 FastAPI, Flask, Flutter, Streamlit,  
-
 Git, MySQL,  
 
 ### Tools
 
 Linux, zsh, nvim, tmux,  
-
 Obsidian, alfred,  
-
 Slack, discord, zoom, GatherTown,    
 
 ### English 
@@ -72,9 +65,7 @@ AI ethics - Modulabs AI Safety Lab
 ### 2023.6 - 2023.12
 
 AI Bootcamp - Modulabs AIFFEL - Research course
-
 Final Project - Research Paper Retriever & Summariser
-
 https://github.com/knachinen/aiffelthon
 
 - Project Name: AccioPaper
@@ -84,26 +75,27 @@ https://github.com/knachinen/aiffelthon
 ### 2014.9 - 2022.9
 
 Greenpeace  
-
 Action team  
-
 Warehouse Coordinator  
 
 - Equipment production & management
 	- Design - sketch-up, blender, Adobe illustrator / photoshop, figma, canva
 	- Production - woodworking, welding, painting, sewing machine and etc.
 - Warehouse management
-	- Equipment Maintenance
-	- House moving
-	- Space coordination
+	- Equipment(gears, tools and props) / space maintenance
+	- House moving - searching / contracting / moving
+	- Space coordination for events and activities
+- Logistics coordination
 - Training coordination
-	- Activist training - boating, industrial climbing, NVDA
+	- Activist training - boating, industrial climbing, NVDA 
+	- Action tools
+	- Equipment workshops
 	- Gathering coordination - on / offline
 - Public engagement support
 - Action coordination
 	- Outsourcing coordination
 	- Investigation & Scouting
-	- Action support
+	- Action-related supports
 - Participation in actions
 - English communication
 	- with team head (1:1)
@@ -114,7 +106,6 @@ Warehouse Coordinator
 ### 2019 - 2021
 
 Sea Shepherd Korea  
-
 Activist  
 
 - Campaign equipment production
@@ -127,9 +118,7 @@ Activist
 ### 2009.9 - 2013.10
 
 Yujin robot  
-
 Dev. support / Control team  
-
 Software developer / Machine control engineer  
 
 - QA Test
