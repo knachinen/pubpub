@@ -13,7 +13,7 @@ tags:
 - Yizheng Huang, Jimmy Huang
 - 2024-04 
 
-### Abstract 
+## Abstract 
 
 - LLM은 그럴듯하지만 잘못된 응답을 생성함
 - RAG는 실제 데이터로 정확도와 신뢰도를 줌
