@@ -7,6 +7,12 @@ tags:
   - survey
 ---
 
+## Information 
+
+- [2404.10981] A Survey on Retrieval-Augmented Text Generation for Large Language Models (arxiv.org) | [Link](https://arxiv.org/abs/2404.10981) 
+- Yizheng Huang, Jimmy Huang
+- 2024-04 
+
 ### Abstract 
 
 - LLM은 그럴듯하지만 잘못된 응답을 생성함
