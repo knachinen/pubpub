@@ -6,11 +6,11 @@ title: 📠 pubpub...
 
 ---
 
-- [Code](code/)
-- [Fact Check](factcheck/)
-- [Machine Learning](ml/)
-- [Obsidian](obsidian/)
-- [Profile](profile/)
+- [[code/|Code]]
+- [[factcheck/|Fact Check]]
+- [[machine learning|Machine Learning]]
+- [[obsidian/|Obsidian]]
+- [[profile/|Profile]]
 
 --- 
 

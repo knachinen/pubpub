@@ -1,8 +1,13 @@
+---
+title: machine learning
+---
+
 
 ---
 
-- [Agent](agent/)
-- [Data](data/)
-- [Retrieval Augmented Generation](rag/)
+- [[ml/agent/|Agent]]
+- [[ml/data/|Data]]
+- [[ml/rag/|Retrieval Augmented Generation]]
 
 ---
+
