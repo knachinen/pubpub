@@ -91,4 +91,4 @@ plt.savefig(
 plt.show()
 ```
 
-![[content/pubpub/factcheck/rsf_sk_score.png]]
+![[pubpub/factcheck/rsf_sk_score.png]]
