@@ -56,5 +56,5 @@ for x, y, label, tag in annotations:
 plt.show()
 ```
 
-![[pubpub/ml/data/scatterplot_sk_others.png]]
+![[scatterplot_sk_others.png]]
 

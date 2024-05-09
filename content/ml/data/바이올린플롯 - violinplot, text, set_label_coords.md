@@ -53,6 +53,6 @@ plt.title('2024 언론 자유 지수 - 등락폭 비교')
 plt.show()
 ```
 
-![[pubpub/factcheck/rsf_2024_score_diff.png]]
+![[rsf_2024_score_diff.png]]
 
 
