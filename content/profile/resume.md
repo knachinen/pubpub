@@ -6,8 +6,8 @@ tags:
 
 ## Connect
 
-github: github.com/knachinen  
-mastodon: @jin@fosstodon.org  
+github: [github.com/knachinen](https://www.github.com/knachinen)  
+mastodon: [@knachinen@mastodon.org](https://mastodon.social/@knachinen)    
 
 ---
 ## Skills
