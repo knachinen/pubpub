@@ -6,7 +6,7 @@ title: 📠 pubpub...
 
 ---
 
-- [[code/|Code]]
+- [[code]]
 - [[factcheck/|Fact Check]]
 - [[darkmap/|DarkMap]]
 - [[machine learning|Machine Learning]]
