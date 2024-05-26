@@ -34,3 +34,8 @@ for index in tqdm(self.index_url):
 	self.df.at[int(index), new_column_name] = str(result)
 
 ```
+
+
+## ref.
+
+- Timing Out of Long Running Methods in Python | by chamila de alwis (Medium) | [Link](https://medium.com/@chamilad/timing-out-of-long-running-methods-in-python-818b3582eed6) 
