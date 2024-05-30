@@ -7,6 +7,8 @@ tags:
   - jupyter-notebook
 ---
 
+...
+
 jupyter notebook 에서 임포팅한 모듈을 쓰는데,  
 모듈을 수정을 할 때마다 리프레시를 해주는 게 정말 번거롭다.  
 

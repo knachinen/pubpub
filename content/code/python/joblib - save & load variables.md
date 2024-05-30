@@ -8,6 +8,8 @@ tags:
   - variable
 ---
 
+...
+
 변수를 파일로 저장하고 로딩하는 모듈.  
 pickle 대신 joblib 를 씀.  
 
