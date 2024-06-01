@@ -6,11 +6,23 @@ title: 📠 pubpub...
 
 ---
 
-- [[code]]
-- [[factcheck/|Fact Check]]
-- [[darkmap/|DarkMap]]
+## Code
+
+- [[code|Code - General]]
 - [[machine learning|Machine Learning]]
+
+## Civic Hacking
+
+- [[darkmap/|DarkMap]]
+- [[factcheck/|Fact Check]]
+
+## Productivity
+
 - [[obsidian/|Obsidian]]
+- [[mac/|Mac OS]]
+
+## Profile
+
 - [[profile/|Profile]]
 
 --- 
