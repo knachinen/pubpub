@@ -21,6 +21,10 @@ title: 📠 pubpub...
 - [[obsidian/|Obsidian]]
 - [[mac/|Mac OS]]
 
+## Others
+
+- [[others/|Others]]
+
 ## Profile
 
 - [[profile/|Profile]]
