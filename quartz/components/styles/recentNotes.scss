@@ -1,4 +1,15 @@
 .recent-notes {
+  list-style: none;
+  overflow: hidden;
+  // overflow: scroll;
+  max-height: none;
+  transition: max-height 0.35s ease;
+  // margin-top: 0.5rem;
+
+  &.collapsed > .overflow::after {
+    opacity: 0;
+  }
+
   & > h3 {
     margin: 0.5rem 0 0 0;
     font-size: 1rem;
