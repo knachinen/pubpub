@@ -6,11 +6,7 @@ tags:
   - dataviewjs
   - pie
 description: pie chart using mermaid with dataviewjs
-aliases:
-  - mermaid
-  - obsidian
-  - dataviewjs
-  - pie
+aliases: []
 date: 2024-06-5
 ---
 .

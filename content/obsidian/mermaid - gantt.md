@@ -5,10 +5,7 @@ tags:
   - gantt
   - obsidian
 description: gantt chart in obsidian using mermaid
-aliases:
-  - mermaid
-  - gantt
-  - obsidian
+aliases: []
 date: 2024-05-31
 ---
 
