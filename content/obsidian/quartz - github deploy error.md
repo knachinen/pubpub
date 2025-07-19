@@ -16,7 +16,7 @@ quartz 디렉토리 안에 있는 `.github/workflows/deploy.yml` 를 다음과 �
 ---
 ### build error 1
 
-> **build**
+> **build**  
 > This request has been automatically failed because it uses a deprecated version of `actions/upload-artifact: v3`. Learn more: [https://github.blog/changelog/2024-04-16-deprecation-notice-v3-of-the-artifact-actions/](https://github.blog/changelog/2024-04-16-deprecation-notice-v3-of-the-artifact-actions/)
 
 2025년 1월부터 `actions/upload-artifact: v4` 를 써야한다.
