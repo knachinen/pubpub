@@ -3,6 +3,8 @@ title: consumption and creation
 tags:
   - consumption
   - creation
+  - mind
+  - productivity
 description: 
 aliases: 
 date: 2025-07-19T11:21:36
