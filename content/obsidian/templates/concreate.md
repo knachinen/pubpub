@@ -10,7 +10,9 @@ date: "{{date:YYYY-MM-DDTHH:mm:ss}}"
 
 ### 받은 것
 
+> 
 
+- 왜 받았나? : 
 
 ### 내 말로 바꾸기
 
