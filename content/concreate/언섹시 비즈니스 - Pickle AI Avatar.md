@@ -1,5 +1,5 @@
 ---
-title: 언섹시 비지니스 - Pickle AI Avatar
+title: 언섹시 비즈니스 - Pickle AI Avatar
 tags:
   - startup
   - ai
@@ -16,7 +16,7 @@ date: 2025-07-24T20:43:21
 
 > 출시 8개월 만에 월 매출 8천만원을 찍은 한국의 AI Avatar 스타트업 (maily.so) | [Link](https://maily.so/unsexybusinesskr/posts/8do78evprgq) 
 
-- 왜 : 비지니스 읽을거리
+- 왜 : 비즈니스 읽을거리
 
 ### 꺼내기
 
