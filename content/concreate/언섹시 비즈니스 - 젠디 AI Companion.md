@@ -1,5 +1,5 @@
 ---
-title: 언섹시 비즈니스 - 젠디
+title: 언섹시 비즈니스 - 젠디 AI Companion
 tags:
   - unsexybusiness
   - ai
