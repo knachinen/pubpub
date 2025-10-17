@@ -25,6 +25,7 @@ title: 📠 pubpub...
 ## Others
 
 - [[book/|Books]]
+- [[input/|Input]]
 - [[others/|Others]]
 
 ## Profile
