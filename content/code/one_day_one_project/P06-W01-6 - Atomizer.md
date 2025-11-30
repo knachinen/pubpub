@@ -96,7 +96,7 @@ npx expo run:android
 ![[p06-w01-6_screen-2.png|200]]
 ![[p06-w01-6_screen-3.png|200]]
 ![[p06-w01-6_screen-4.png|200]]
-
+발
 
 ---
 
