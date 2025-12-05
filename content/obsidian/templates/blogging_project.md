@@ -21,6 +21,7 @@ description:
 > - 모델
 > 	- 계획: Claude Sonnet 4.5
 > 	- 구현: Gemini 3 Pro (High)
+> 	- 디버깅: Gemini 3 Pro (High)
 
   
 
@@ -36,6 +37,7 @@ description:
 ## 작업 문서 
 
 > [!EXAMPLE] 문서
+> - 실현가능성 검토 : [Feasibility](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/feasibility.md)
 > - 제품명세서 : [PRD](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
 > - 구현 계획 : [Implementation Plan](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/implementation_plan.md)
 > - 작업 목록 : [Task](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/task.md)
