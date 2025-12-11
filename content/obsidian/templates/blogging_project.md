@@ -32,6 +32,21 @@ description:
 
 ## 작업 요청
 
+### 기획안 및 제품 요구사항 명세서 작성 
+Gemini Fast, Claude Sonnet 4.5, ChatGPT, Grok Auto
+
+> [!QUESTION] 프롬프트
+> - 인스타그램 같은 이미지 및 짧은 글 공유 커뮤니티 웹서비스 제품 요구사항 명세서 작성.
+> - MVP 기술스택은 클라우드 서비스없이 로컬환경에 맞게 변경. 기술스택 최신 버전으로 맞추기.
+
+
+> [!EXAMPLE] 기획안 및 제품 요구사항 명세서
+> - Gemini : [PRD - Gemini](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
+> - Claude : [PRD - Claude](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
+> - ChatGPT : [PRD - ChatGPT](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
+> - Grok : [PRD - Grok](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
+
+
 ### 실현 가능성 검토 (Gemini Web)
 
 > [!QUESTION] Gemini 프롬프트
@@ -48,12 +63,15 @@ description:
 > - 제품명세서 : [PRD](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
 
 
-### 목업 디자인 (Stitch)
+### 목업 디자인 
+Stitch
 
 
 > [!QUESTION] Stitch 프롬프트
-> - PRD 바탕으로 앱 디자인
-> 	- (PRD 답변 첨부)
+> - 기획안과 제품 요구사항 명세서를 바탕으로 웹디자인
+> 	- (기획안 및 제품 요구사항 명세서 내용 첨부)
+
+![[p15-w03-1_mockup.png]]
 
 
 ### 작업 요청 (반중력)
