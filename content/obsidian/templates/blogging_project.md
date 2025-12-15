@@ -17,15 +17,13 @@ description:
 ## 개발환경
 
 > [!INFO] IDE & 모델
-> - Gemini 2.5 Fast
-> 	- 실현가능성
-> 	- 요구사항 명세서
-> - 반중력편집기 (AntiGravity)
-> 	- 요구사항 명세서 리뷰: Gemini 3 Pro (High)
-> 	- 계획: Gemini 3 Pro (High)
-> 	- 구현: Gemini 3 Pro (High)
+> - Gemini 2.5 Fast / Claude Sonnet 4.5 / ChatGPT / Grok Auto
+> 	- 기획안 및 제품 요구사항 명세서 작성
+> - Google Stitch
+> 	- 목업 디자인
 > - Gemini CLI
-> 	- 디버깅: Gemini 2.5 Flash
+> 	- 계획, 구현, 디버깅: Gemini 2.5 Auto, Flash
+
 
 
 ---
@@ -36,58 +34,72 @@ description:
 Gemini Fast, Claude Sonnet 4.5, ChatGPT, Grok Auto
 
 > [!QUESTION] 프롬프트
-> - 인스타그램 같은 이미지 및 짧은 글 공유 커뮤니티 웹서비스 제품 요구사항 명세서 작성.
-> - MVP 기술스택은 클라우드 서비스없이 로컬환경에 맞게 변경. 기술스택 최신 버전으로 맞추기.
+> - 1인 창업자 대상 인터랙티브 브랜드 포트폴리오 웹사이트 기획안 작성
+> - 제품 요구사항 명세서 작성
+> - 현재 버전을 모두 잊을 것. 기술스택 하나씩 다시 검색해서 최신버전을 찾기. 참고한 문서 링크 첨부
+> - 단계별 구현 계획 작성. 단계별로 독립적인 실행이 가능해야 함. 
+> - 1단계 구현 상세 계획
+> - 2단계 구현 상세 계획
+> - 3단계 구현 상세 계획
+> - 4단계 구현 상세 계획
+> - 5단계 구현 상세 계획
 
 
 > [!EXAMPLE] 기획안 및 제품 요구사항 명세서
-> - Gemini : [PRD - Gemini](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
-> - Claude : [PRD - Claude](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
-> - ChatGPT : [PRD - ChatGPT](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
-> - Grok : [PRD - Grok](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
+> - [Gemini](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/plan_gemini.md)
+> - [Claude](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/plan_claude.md)
+> - [ChatGPT](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/plan_chatgpt.md)
+> - [Grok](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/plan_grok.md)
 
 
-### 실현 가능성 검토 (Gemini Web)
-
-> [!QUESTION] Gemini 프롬프트
-> - 
-> 	- 실현 가능성
-> 	- 구현 가능한 기능
-> 	- 난이도
-> - 프로젝트 : 
-> 	- (실현 가능성 답변 첨부)
-
-
-> [!EXAMPLE] 문서
-> - 실현가능성 검토 : [Feasibility](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/feasibility.md)
-> - 제품명세서 : [PRD](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/prd.md)
+> [!EXAMPLE] 단계별 구현계획
+> - [단계별 구현계획](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/plan_phase.md)
+> - [1단계 구현계획](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/plan_phase-1.md)
+> - [2단계 구현계획](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/plan_phase-2.md)
+> - [3단계 구현계획](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/plan_phase-3.md)
+> - [4단계 구현계획](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/plan_phase-4.md)
+> - [5단계 구현계획](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/plan_phase-5.md)
 
 
 ### 목업 디자인 
-Stitch
+Stitch, Gemini
 
+![[p18-w03-5_mockup.png]]
 
-> [!QUESTION] Stitch 프롬프트
+> [!QUESTION] Stitch 목업 디자인
 > - 기획안과 제품 요구사항 명세서를 바탕으로 웹디자인
 > 	- (기획안 및 제품 요구사항 명세서 내용 첨부)
 
-![[p15-w03-1_mockup.png]]
+> [!QUESTION] Gemini 디자인 명세서 작성
+> - 000 섹션 디자인 명세서 작성. 
+> - 색상 코드와 폰트 정보 명세서 작성. 
+> - 간격 및 정렬, 인터랙션 및 애니메이션, 접근성 및 SEO 명세서 작성.
+> - (컬러 팔레트, 간격 및 정렬, 인터랙션 및 애니메이션, 접근성 및 SEO, 폰트 명세서 작성)
 
 
-### 작업 요청 (반중력)
+> [!EXAMPLE] 디자인 명세서
+> - [섹션 1 - 히어로](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/design_section-1.md)
+> - [섹션 2 - 소개](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/design_section-2.md)
+> - [섹션 3 - 포트폴리오](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/design_section-3.md)
+> - [섹션 4 - 서비스](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/design_section-4.md)
+> - [섹션 5 - 후기](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/design_section-5.md)
+> - [섹션 6 - 연락처](https://github.com/knachinen/one-day-one-project/blob/main/p18-w03-5_portfolio/doc/design_section-6.md)
 
-> [!QUESTION] 반중력 프롬프트
-> - 🔍  제품 요구사항 명세서를 개선점을 파악하고, 수정 보완하기. 문서만 업데이트하고 지시 기다릴것.
-> - 📱  목업 디자인 요구사항 정리
-> - 📋  구현 계획, 구현 작업 목록 작성 
-> - ▶️  문서 작성 후 구현 자동 시작
 
+### 작업 요청 
+Gemini CLI
 
-> [!EXAMPLE] 문서
-> - 디자인 요구사항 정리 : [Design](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/design.md)
-> - 구현 계획 : [Implementation Plan](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/implementation_plan.md)
-> - 작업 목록 : [Task](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/task.md)
-> - 기술 검토 : [Walkthrough](https://github.com/knachinen/one-day-one-project/blob/main/p06_w01-6_atomizer/doc/walkthrough.md)
+> [!QUESTION] 구현 프롬프트
+> - 1단계 구현
+> - 섹션 1 구현
+> - 섹션 2 구현
+> - 섹션 3 구현
+> - 섹션 4 구현
+> - 섹션 5 구현
+> - 섹션 6 구현
+> - 2단계 구현
+> - 3단계 구현
+> - 4단계 구현
 
 
 ---
@@ -96,41 +108,21 @@ Stitch
 
 ### 구현 후 첫 실행
 
-
-> [!BUG] 
-> - The development server returned response error code: 500
-
-```bash
-Unable to resolve "react-native-gesture-handler" from "App.tsx"
-> 1 | import 'react-native-gesture-handler';
-    |         ^
-  2 | import React from 'react';
-  3 | import { AppNavigator } from './src/navigation/AppNavigator';
-  4 | import { useLogStream } from './src/hooks/useLogStream';
-
-Import stack:
-
- App.tsx
- | import "react-native-gesture-handler"
-
- index.ts
- | import "./App"
- | import "./index"
-
-```
+단계별로 구현 및 실행 검증을 함. 
 
 ### 구현 기능 검증
 
 > [!BUG] 
-> - 
-
+> - `use Client;` 매 섹션마다 빠뜨림.
+> - `via.placeholder.com` 
+> - `shadcn/ui`
+> - `<motion.div unoptimized></motion.div>`
 
 ### 수정 보완
 
 > [!BUG] 
-> - Safe Area View
-> - UI 색상 
-> - 
+> - Header, Footer 메인 테마 적용
+> - 단어 띄어쓰기
 
 
 
@@ -138,12 +130,22 @@ Import stack:
 ## 결과 
 
 
+![[p18-w03-5_screen.png]]
+
+### 미완성
 
 > [!BUG] 
-> - 
+> - 비디오 플레이스홀더 
+> - 프로젝트 프로세스 수직 라인 
+> - '프로젝트 시작하기' 버튼 액션
+> - 사진 첨부 및 SNS 링크 
+
+
+### 완료
 
 > [!SUCCESS] 
-> - 
+> - 대부분의 구현 계획
+> - 목업 디자인 적용
 
 
 
