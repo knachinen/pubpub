@@ -8,13 +8,6 @@ category:
 description: 
 ---
 
-**Created:**
-`= this.file.ctime`
-
-**Updated:**
-`= this.file.mtime`
-
-
 # Content
 
 어제 젬니와 했던 얘기들 가운데 '의식의 연속성'을 곱씹었다.
