@@ -7,14 +7,6 @@ status:
 category:
 description: 
 ---
-
-**Created:**
-`= this.file.ctime`
-
-**Updated:**
-`= this.file.mtime`
-
-
 # Content
 
 
